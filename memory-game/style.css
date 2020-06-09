@@ -1,0 +1,13 @@
+#app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#tablero{
+  width: 400px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
